@@ -1,7 +1,7 @@
 ## Purpose:
 This was developed specifically for the Ames Panel genotypic data file ```ZeaGBSv27_publicSamples_rawGenos_AGPv3_20170206.h5``` (downloaded from ```/iplant/home/shared/panzea/genotypes/GBS/v27/```)
 
-Replicates were genotypic multiple times as part of the original project, therefore, genotyped replicated were combined to form a 'consensus' call for each genotype within the Ames Panel.
+Certain Ames Panel lines were genotyped multiple times as part of the original project, therefore they were combined to form a 'consensus' call for each genotype within the Ames Panel.
 
 ## Commandline code to enter
 
