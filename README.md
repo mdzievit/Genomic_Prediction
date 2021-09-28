@@ -4,7 +4,9 @@ This repo houses the scripts, input, and output data used to conduct genomic pre
 
 It is broken out into two sections.
 
-1. [Dissertation version](https://lib.dr.iastate.edu/etd/17179/)
+1. Dissertaion Version
+  - [Download Dissertaion](https://lib.dr.iastate.edu/etd/17179/)
 2. The Plant Genome Version (Currently Accepted, waiting to be released)
+  - Will update link here once it is availale
 
 Slight modifications were made to the code and analysis between the two versions. Most changes relate to the figures and their overall design and aethestics.
