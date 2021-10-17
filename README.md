@@ -1,4 +1,4 @@
-## Genomic Prediction via Maize Assocation Populationa and Ames Diversity Panel
+## Genomic Prediction via Maize Assocation Population and Ames Diversity Panel
 
 This repo houses the scripts, input, and output data used to conduct genomic prediction using the Maize Association Population and Ames Diversity Panel.
 
