@@ -1,0 +1,40 @@
+---
+title: "Session Information"
+author: "Matt Dzievit"
+date: "September 25, 2021"
+output: pdf_document
+---
+## Obtaining all packages used
+### Used a handy bash one liner in my main directoy to pull out all the libraries used across all my scripts:
+find . -type f -name '*.R' | xargs grep -h library > packages.txt
+
+
+## Loading in all the packages
+```{r Loading packages used in scripts}
+library(tidyverse)
+library(broom)
+library(lme4)
+library(ggpubr)
+library(patchwork)
+library(data.table)
+library(Hmisc)
+library(corrplot)
+library(gridExtra)
+library(grid)
+library(gtable)
+library(scales)
+library(tibble)
+library(tidyr)
+library(dplyr)
+library(readr)
+library(rrBLUP)
+library(MASS)
+library(doSNOW)
+```
+
+## Printing Session Info
+```{r Printing Session Info}
+sessionInfo()
+```
+
+
